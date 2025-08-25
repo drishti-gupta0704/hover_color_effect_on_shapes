@@ -10,4 +10,4 @@
 
 ![snap of live project](Will be added soon)
 ### 🔗 Live Demo of project 
-[View Project](will be deployed later with netlify) 🚀
+[View Project](https://hovershapes.netlify.app/) 🚀
