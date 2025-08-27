@@ -4,18 +4,23 @@
     box-sizing:border-box;
     
     }
-    
-    html,body{
-    height:100%;
-    width:100%;
-    }
-
-    
-    #main{
+    html, body {
+        height: 100%;
+        width:100%;
+        background: repeating-linear-gradient(
+          45deg,
+          #FFF8E7,
+          #FFF8E7 20px,
+          #FDE2F3 20px,
+          #FDE2F3 40px
+        );
+      }
+      
+      #main{
         flex-direction: column; 
         height:100%;
         width:100%;
-        background-color:#FFF8E7;
+        /* background-color:#FFF8E7; */
         display:flex;
         align-items: center;
         justify-content: center;
