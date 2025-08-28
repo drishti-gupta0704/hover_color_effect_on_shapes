@@ -8,6 +8,6 @@
 
 ### 📸 Screenshot of the project
 
-![snap of live project](Will be added soon)
+![snap of live project](image.png)
 ### 🔗 Live Demo of project 
 [View Project](https://hovershapes.netlify.app/) 🚀
