@@ -8,6 +8,8 @@
 
 ### 📸 Screenshot of the project
 
-![snap of live project](image.png)
+<!-- ![snap of live project](image.png) -->
+<img src="image.png" alt="this is snapshot of the project" width="500">
+
 ### 🔗 Live Demo of project 
 [View Project](https://hovershapes.netlify.app/) 🚀
